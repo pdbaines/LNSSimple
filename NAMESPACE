@@ -1,2 +1,2 @@
-useDynLib(logNlogS.broken)
+useDynLib(LNSSimple)
 export(sim.dat.pareto.pois.b,broken.power.B,broken.power,sample.post.S.b,rBpareto)
