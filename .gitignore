@@ -1,3 +1,6 @@
+# Symbols
+*.rds
+
 # Object files
 *.o
 *.ko

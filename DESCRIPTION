@@ -1,0 +1,13 @@
+Package: LNSSimple
+Type: Package
+Title: Analysis of \emph{logN-logS} relationship with broken-power law
+        models
+Version: 0.0.1
+Date: 2012-10-20
+Author: Raymond K. W. Wong, Paul Baines, Alexander Aue and Thomas C. M. Lee
+Maintainer: Paul D. Baines <pdbaines@ucdavis.edu>
+Description: This package contains some routines for conducting analysis on the relationship between the number of astronomical sources and their flux. This relationship is typically known as \emph{log(N) - log(S)} relationship. This package provides maximum likelihood estimation on the typical \emph{log(N) - log(S)} model and the broken power-law models.
+License: MIT
+Depends: coda (>= 0.14-6), doMC (>= 1.2.3), neldermead (>= 1.0-7)
+LinkingTo: coda, doMC, neldermead
+Packaged: 2013-11-16 00:48:35 UTC; Paul
